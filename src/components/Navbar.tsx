@@ -36,7 +36,7 @@ export function Navbar() {
           onClick={() => scrollTo("about")}
           style={{ textShadow: "0 0 20px rgba(99,102,241,0.3)" }}
         >
-          Sidhartha Mohanty
+          SM.
         </div>
         <div className="hidden md:flex items-center space-x-8">
           <ul className="flex space-x-6">
